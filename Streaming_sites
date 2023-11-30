@@ -1,4 +1,6 @@
 #Streaming sites
+
+#Movies
 0.0.0.0 gomovies.sx
 0.0.0.0 gomovies-online.cam
 0.0.0.0 gomovies.mba
@@ -10,3 +12,26 @@
 0.0.0.0 popcornflix-official.site
 0.0.0.0 www.azmovies.net
 0.0.0.0 www.atozmoviez.com
+0.0.0.0 putlocker.boo
+0.0.0.0 putlocker.0nline.tv
+0.0.0.0 putlocker-website.online
+0.0.0.0 www.midnightpulp.com
+0.0.0.0 simkl.com
+0.0.0.0 tubitv.com
+
+
+#Anime
+0.0.0.0 aniwave.to
+0.0.0.0 w7.animeland.tv
+0.0.0.0 www.anime-planet.com
+0.0.0.0 animetake.tv
+0.0.0.0 www.aniplus-asia.com
+0.0.0.0 www.asiancrush.com
+0.0.0.0 chia-anime.cc
+0.0.0.0 www.crunchyroll.com
+0.0.0.0 dubbedanime.biz
+0.0.0.0 www.funimation.com
+0.0.0.0 www.hidive.com
+0.0.0.0 masteranime.vip
+0.0.0.0 myanimelist.net
+0.0.0.0 www.nicovideo.jp
