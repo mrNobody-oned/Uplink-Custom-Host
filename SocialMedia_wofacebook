@@ -990,6 +990,24 @@
 0.0.0.0 www.pinterest.com.gslb.pinterest.com
 0.0.0.0 www.pinterest.fr
 
+# Snapchat
+0.0.0.0 addlive.io
+0.0.0.0 feelinsonice.com
+0.0.0.0 sc-cdn.net
+0.0.0.0 sc-corp.net
+0.0.0.0 sc-gw.com
+0.0.0.0 sc-jpl.com
+0.0.0.0 sc-prod.net
+0.0.0.0 sc-static.net
+0.0.0.0 snapads.com
+0.0.0.0 snapchat.com
+0.0.0.0 snap-dev.net
+0.0.0.0 snapkit.com
+0.0.0.0 snapmap.com
+0.0.0.0 snapmap.org
+0.0.0.0 snapmaps.com
+0.0.0.0 snap-storage-cdn.l.google.com
+
 # Tumblr
 0.0.0.0 24.media.tumblr.com
 0.0.0.0 25.media.tumblr.com
