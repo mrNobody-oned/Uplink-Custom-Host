@@ -1171,6 +1171,65 @@
 0.0.0.0 ios.joinclubhouse.com
 0.0.0.0 testflight.joinclubhouse.com
 
+#douyin
+0.0.0.0 amemv.com
+0.0.0.0 amemv.com.230b2a2545cfa773.queniuck.com
+0.0.0.0 amemv.com.bytedns1.com
+0.0.0.0 amemv.com.c.dsa.cdnbuild.net
+0.0.0.0 amemv.com.st-c.dsa.cdnbuild.net
+0.0.0.0 douyincdn.com
+0.0.0.0 douyincdn.com.bytedns1.com
+0.0.0.0 douyincdn.com.c.bytefcdn.com
+0.0.0.0 douyincdn.com.c.volcfcdndvs.com
+0.0.0.0 douyincdn.com.tcdnlive.com
+0.0.0.0 douyincdn.com.ucloud.com.cn
+0.0.0.0 douyin.com
+0.0.0.0 douyinliving.com
+0.0.0.0 douyinpic.com
+0.0.0.0 douyinstatic.com
+0.0.0.0 douyinvod.com
+0.0.0.0 douyinvod.com.cloud.wo.cn
+0.0.0.0 lf6-douyin-ckv-tos.pstatp.com
+
+#weibo
+0.0.0.0 weibocdn.com
+0.0.0.0 weibo.cn
+0.0.0.0 weibo.com
+
+#shopee
+0.0.0.0 shopee.cl
+0.0.0.0 shopee.cn
+0.0.0.0 shopee.co.id
+0.0.0.0 shopee.com
+0.0.0.0 shopee.com.br
+0.0.0.0 shopee.com.co
+0.0.0.0 shopee.com.mx
+0.0.0.0 shopee.com.my
+0.0.0.0 shopee.co.th
+0.0.0.0 shopee.es
+0.0.0.0 shopee.fr
+0.0.0.0 shopee.id
+0.0.0.0 shopee.in
+0.0.0.0 shopee.io
+0.0.0.0 shopeemobile.com
+0.0.0.0 shopee.ph
+0.0.0.0 shopee.sg
+0.0.0.0 shopee.tw
+0.0.0.0 shopee.vn
+0.0.0.0 shp.ee
+
+# Lazada
+0.0.0.0 lazada.co.id
+0.0.0.0 lazada.co.id.a.lahuashanbx.com
+0.0.0.0 lazada.com
+0.0.0.0 lazada.com.my
+0.0.0.0 lazada.com.ph
+0.0.0.0 lazada.co.th
+0.0.0.0 lazada.sg
+0.0.0.0 lazada.vn
+0.0.0.0 lzd.jshsos.ksyunv5.com
+0.0.0.0 slatic.net
+
 # Dating sites
 # from https://github.com/StevenBlack/hosts/issues/2023
 0.0.0.0 tinder.com
