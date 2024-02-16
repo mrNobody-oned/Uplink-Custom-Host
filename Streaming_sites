@@ -35,3 +35,13 @@
 0.0.0.0 masteranime.vip
 0.0.0.0 myanimelist.net
 0.0.0.0 www.nicovideo.jp
+
+#Twitch
+0.0.0.0 twitch.tv
+0.0.0.0 ttvnw.net
+0.0.0.0 jtvnw.net
+0.0.0.0 twitchcdn.net
+
+#Netflix
+0.0.0.0 netflix.com
+
