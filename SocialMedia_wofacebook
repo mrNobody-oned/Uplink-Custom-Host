@@ -1233,6 +1233,7 @@
 # Dating sites
 # from https://github.com/StevenBlack/hosts/issues/2023
 0.0.0.0 tinder.com
+0.0.0.0 adam4adam.com
 0.0.0.0 bumble.com
 0.0.0.0 badoo.com
 0.0.0.0 okcupid.com
@@ -1247,6 +1248,9 @@
 0.0.0.0 mixi.jp
 0.0.0.0 mixch.tv
 0.0.0.0 lobi.co
+0.0.0.0 fotostrana.ru
+
+
 # blacklist
 #
 # The contents of this file (containing a listing of additional domains in
